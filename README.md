@@ -4,4 +4,5 @@
 
 ​	Because of the lack of resources in the previous lecture(cs61b-sp18), i move into this repo to implement my remaining code.
 
-​	All notes will be written in [this repo](https://github.com/Centurybbx/notes/tree/main/cs61b) in Chinese!!!
+​	All notes will be written in [this repo](https://github.com/Centurybbx/notes/tree/main/cs61b) in Chinese!!!!!!
+
